@@ -1,0 +1,2 @@
+class PikaClientException(Exception):
+    pass
